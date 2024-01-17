@@ -153,9 +153,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: 1ab9bf2293c504841980e3aebf59cfd0, type: 2}
-  length: 2
+  centerPos: {x: 0, y: -2, z: 0}
   width: 2
-  heigth: 2
+  height: 5
+  subdivisionX: 1
+  subdivisionY: 10
 --- !u!4 &659538000
 Transform:
   m_ObjectHideFlags: 0
